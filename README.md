@@ -134,7 +134,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daffahub123&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=808080&icon_color=ffffff&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daffahub123&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=808080&icon_color=ffffff&cache_seconds=86400" alt="GitHub Stats" />
   
   <br><br>
   
@@ -142,7 +142,7 @@
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffahub123&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=808080" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffahub123&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=808080&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <br><br><br>
