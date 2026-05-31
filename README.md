@@ -8,11 +8,11 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=dfrfalz123&label=PROFILE+VISITORS&color=8b0000&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=dfrfalz&label=PROFILE+VISITORS&color=8b0000&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/dfrfalz?style=for-the-badge&logo=github&label=FOLLOWERS&color=000000&labelColor=8b0000"/>
 
-<img src="https://img.shields.io/github/stars/dfrfalz123?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=000000&labelColor=8b0000"/>
+<img src="https://img.shields.io/github/stars/dfrfalz?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=000000&labelColor=8b0000"/>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-red?style=for-the-badge"/>
 
@@ -211,13 +211,13 @@ CURRENT_PROJECTS:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dfrfalz123&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=cccccc&border_radius=18"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dfrfalz&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=cccccc&border_radius=18"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfrfalz123&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ff0000&text_color=cccccc&border_radius=18"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfrfalz&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ff0000&text_color=cccccc&border_radius=18"/>
 
 <br><br>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=dfrfalz123&theme=highcontrast&hide_border=true&background=000000&stroke=8b0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000"/>
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=dfrfalz&theme=highcontrast&hide_border=true&background=000000&stroke=8b0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000"/>
 
 </div>
 
@@ -231,7 +231,7 @@ CURRENT_PROJECTS:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dfrfalz123&bg_color=000000&color=ff0000&line=8b0000&point=ff0000&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dfrfalz&bg_color=000000&color=ff0000&line=8b0000&point=ff0000&hide_border=true"/>
 
 </div>
 
@@ -245,7 +245,7 @@ CURRENT_PROJECTS:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dfrfalz123&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dfrfalz&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -259,19 +259,19 @@ CURRENT_PROJECTS:
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dfrfalz123&theme=github_dark"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dfrfalz&theme=github_dark"/>
 
 <br><br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dfrfalz123&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dfrfalz&theme=github_dark"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dfrfalz123&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dfrfalz&theme=github_dark"/>
 
 <br><br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dfrfalz123&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dfrfalz&theme=github_dark"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dfrfalz123&theme=github_dark&utcOffset=7"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dfrfalz&theme=github_dark&utcOffset=7"/>
 
 </div>
 
@@ -299,7 +299,7 @@ CURRENT_PROJECTS:
 
 ```bash
 $ whoami
-> dfrfalz123
+> dfrfalz
 
 $ system-status
 > ONLINE
@@ -348,7 +348,7 @@ $ uptime
 <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=ff0000"/>
 </a>
 
-<a href="https://github.com/dfrfalz123">
+<a href="https://github.com/dfrfalz">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ff0000"/>
 </a>
 
